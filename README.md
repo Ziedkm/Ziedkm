@@ -5,7 +5,6 @@
 
 I'm a second-year **Business IT student** from Tunisia, passionate about the intersection of technology and business. My goal is to leverage my skills in software development and data analytics to build impactful solutions. My experience, including a recent **ERASMUS exchange program**, has prepared me to tackle challenges in a global, collaborative environment.
 
-- 🔭 I’m currently working on academic projects and enhancing my full-stack development skills.
 - 🌱 I’m currently learning more about **React**, **SpringBoot**, and **Data Warehousing concepts**.
 - 💼 I am actively seeking **internship opportunities** in Web Development or Data Analytics.
 - 📫 How to reach me: **[ziedkmantar@gmail.com](mailto:ziedkmantar@gmail.com)** or connect with me on **[LinkedIn](https://www.linkedin.com/in/ZiedKMANTER)**.
