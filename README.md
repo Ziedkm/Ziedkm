@@ -3,7 +3,7 @@
   <h1>Hi there, I'm Zied Kmanter 👋</h1>
 </div>
 
-I'm a second-year **Business IT student** from Tunisia, passionate about the intersection of technology and business. My goal is to leverage my skills in software development and data analytics to build impactful solutions. My experience, including a recent **ERASMUS exchange program**, has prepared me to tackle challenges in a global, collaborative environment.
+I'm a second-year **Business IT student** from Tunisia, passionate about the intersection of technology and business. My goal is to leverage my skills in software development and data analytics to build impactful solutions. My experience has prepared me to tackle challenges in a global, collaborative environment.
 
 - 🌱 I’m currently learning more about **React**, **SpringBoot**, and **Data Warehousing concepts**.
 - 💼 I am actively seeking **internship opportunities** in Web Development or Data Analytics.
